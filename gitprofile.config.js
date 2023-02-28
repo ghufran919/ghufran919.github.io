@@ -70,18 +70,18 @@ const config = {
       companyLink: 'https://fpci-chapterunram.com',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'PT. Impactful Byte',
-      degree: 'Front End Website Developer Trainee Graduated with Condition'
+      degree: 'Front End Website Developer Trainee Graduated with Condition',
       from: 'June 2021',
       to: 'September 2021',
     },
