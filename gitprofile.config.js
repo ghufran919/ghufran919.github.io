@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1Ga_rg0EVnUSRdnm4VusW5w-u-w5XCPzB/view?usp=share_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -111,11 +111,11 @@ const config = {
       link: 'https://skilmovie-ghufran919.netlify.app/',
     },
     {
-      title: 'Movie App dengan TMDB API',
+      title: 'To-Do List App Reactjs',
       description:
-        '3rd Technical Project for AMMAN Coding Bootcamp',
+        '4th Technical Project for AMMAN Coding Bootcamp',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://skilmovie-ghufran919.netlify.app/',
+      link: 'https://todo-app-ghufran919.netlify.app/',
     },
     {
       title: 'Baby Care Love e-Commerce Site',
