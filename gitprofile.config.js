@@ -76,13 +76,13 @@ const config = {
       name: 'PT. Impactful Byte - Skilvul',
       body: 'AMMAN Coding Bootcamp',
       year: 'September 2021',
-      link: 'null'
+      link: 'null',
     },
     {
       name: 'BabaStudio',
       body: 'Wordpress e-Commerce Website Development',
       year: 'March 2020',
-      link: 'null'
+      link: 'null',
     },
   ], 
   education: [
