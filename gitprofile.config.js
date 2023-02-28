@@ -2,30 +2,30 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'ghufran919', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['Resume-AMMAN-Coding-Bootcamp', 'full-stack-web-assignments', 'ghufran919.github.io'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'ghufran919',
+    twitter: '',
+    mastodon: '',
     facebook: '',
-    instagram: '',
+    instagram: 'ghufran919',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: 'https://ghufran919.my.id',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'official@ghufran919.my.id',
   },
   resume: {
     fileUrl:
@@ -33,34 +33,41 @@ const config = {
   },
   skills: [
     'PHP',
-    'Laravel',
     'JavaScript',
     'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
+    'HTML',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'SeaCMD Universitas Mataram',
+      position: 'Website Developer',
+      from: '2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://seacmd.unram.ac.id',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Summercourse Universitas Mataram',
+      position: 'Website Developer',
+      from: '2023',
+      to: 'Present',
+      companyLink: 'https://summercourse.unram.ac.id',
+    },
+     {
+      company: 'Indonesian Youth Diplomacy',
+      position: 'Website Developer',
+      from: '2023',
+      to: 'Present',
+      companyLink: 'https://iyd-westnusatenggara.com',
+    },
+     {
+      company: 'FPCI Chapter Universitas Mataram',
+      position: 'Website Developer',
+      from: '2023',
+      to: 'Present',
+      companyLink: 'https://fpci-chapterunram.com',
     },
   ],
   /* certifications: [
@@ -73,10 +80,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'PT. Impactful Byte',
+      degree: 'Front End Website Developer Trainee Graduated with Condition'
+      from: 'June 2021',
+      to: 'September 2021',
     },
     {
       institution: 'Institution Name',
@@ -105,8 +112,8 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
