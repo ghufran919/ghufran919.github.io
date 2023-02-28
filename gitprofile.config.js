@@ -100,7 +100,7 @@ const config = {
       title: 'Kalkulator Indeks Massa Tubuh',
       description:
         '2nd Technical Project for AMMAN Coding Bootcamp',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'http://www.ghufran919.my.id/wp-content/uploads/2023/02/screencapture-indeksmassatubuh-netlify-app-2023-03-01-03_18_52.png',
       link: 'https://indeksmassatubuh.netlify.app/',
     },
     {
