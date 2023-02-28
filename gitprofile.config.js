@@ -24,7 +24,7 @@ const config = {
     skype: '',
     telegram: '',
     website: 'https://ghufran919.my.id',
-    phone: '',
+    phone: '+6285238035370',
     email: 'official@ghufran919.my.id',
   },
   resume: {
@@ -39,32 +39,33 @@ const config = {
     'Git',
     'HTML',
     'CSS',
+    'Wordpress',
   ],
   experiences: [
     {
       company: 'SeaCMD Universitas Mataram',
-      position: 'Website Developer',
+      position: 'Website Development',
       from: '2023',
       to: 'Present',
       companyLink: 'https://seacmd.unram.ac.id',
     },
     {
       company: 'Summercourse Universitas Mataram',
-      position: 'Website Developer',
+      position: 'Website Development',
       from: '2023',
       to: 'Present',
       companyLink: 'https://summercourse.unram.ac.id',
     },
      {
       company: 'Indonesian Youth Diplomacy',
-      position: 'Website Developer',
+      position: 'Website Development',
       from: '2023',
       to: 'Present',
       companyLink: 'https://iyd-westnusatenggara.com',
     },
      {
       company: 'FPCI Chapter Universitas Mataram',
-      position: 'Website Developer',
+      position: 'Website Development',
       from: '2023',
       to: 'Present',
       companyLink: 'https://fpci-chapterunram.com',
@@ -72,42 +73,56 @@ const config = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'PT. Impactful Byte - Skilvul',
+      body: 'AMMAN Coding Bootcamp',
+      year: 'September 2021',
+      link: 'null'
+    },
+    {
+      name: 'BabaStudio',
+      body: 'Wordpress e-Commerce Website Development',
+      year: 'March 2020',
+      link: 'null'
     },
   ], 
   education: [
     {
-      institution: 'PT. Impactful Byte',
-      degree: 'Front End Website Developer Trainee Graduated with Condition',
-      from: 'June 2021',
-      to: 'September 2021',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Universitas Mataram',
+      degree: 'International Relations',
+      from: '2019',
+      to: 'Present',
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Kalkulator Indeks Massa Tubuh',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '2nd Technical Project for AMMAN Coding Bootcamp',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://indeksmassatubuh.netlify.app/',
     },
     {
-      title: 'Project Name',
+      title: 'Movie App dengan TMDB API',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '3rd Technical Project for AMMAN Coding Bootcamp',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://skilmovie-ghufran919.netlify.app/',
+    },
+    {
+      title: 'Movie App dengan TMDB API',
+      description:
+        '3rd Technical Project for AMMAN Coding Bootcamp',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://skilmovie-ghufran919.netlify.app/',
+    },
+    {
+      title: 'Baby Care Love e-Commerce Site',
+      description:
+        'Group Project for AMMAN Coding Bootcamp',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://babycarelove.netlify.app/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -125,11 +140,11 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'corporate',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
@@ -185,11 +200,12 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
+  /*
   footer: `Made with <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
-};
+};*/
 
 export default config;
