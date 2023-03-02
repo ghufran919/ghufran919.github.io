@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1Ga_rg0EVnUSRdnm4VusW5w-u-w5XCPzB/view?usp=share_link', // Empty fileUrl will hide the `Download Resume` button.
+      'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/CV-Ahmad-Ghufran-Akbar.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -100,28 +100,28 @@ const config = {
       title: 'Kalkulator Indeks Massa Tubuh',
       description:
         '2nd Technical Project for AMMAN Coding Bootcamp',
-      imageUrl: 'http://www.ghufran919.my.id/wp-content/uploads/2023/02/screencapture-indeksmassatubuh-netlify-app-2023-03-01-03_18_52.png',
+      imageUrl: 'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/download.png',
       link: 'https://indeksmassatubuh.netlify.app/',
     },
     {
       title: 'Movie App dengan TMDB API',
       description:
         '3rd Technical Project for AMMAN Coding Bootcamp',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/download.png',
       link: 'https://skilmovie-ghufran919.netlify.app/',
     },
     {
       title: 'To-Do List App Reactjs',
       description:
         '4th Technical Project for AMMAN Coding Bootcamp',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/download.png',
       link: 'https://todo-app-ghufran919.netlify.app/',
     },
     {
       title: 'Baby Care Love e-Commerce Site',
       description:
         'Group Project for AMMAN Coding Bootcamp',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/download.png',
       link: 'https://babycarelove.netlify.app/',
     },
   ],
