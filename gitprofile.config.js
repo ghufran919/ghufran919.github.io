@@ -73,7 +73,7 @@ const config = {
   ],
   certifications: [
     {
-      name: 'PT. Impactful Byte - Skilvul',
+      name: 'PT. Impactbyte Teknologi - Skilvul',
       body: 'AMMAN Coding Bootcamp',
       year: 'September 2021',
       link: 'null',
