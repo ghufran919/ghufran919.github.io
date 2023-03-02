@@ -71,7 +71,7 @@ const config = {
       companyLink: 'https://fpci-chapterunram.com',
     },
   ],
-  certifications: [
+  training: [
     {
       name: 'PT. Impactful Byte - Skilvul',
       body: 'AMMAN Coding Bootcamp',
@@ -200,11 +200,11 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+  footer: `Made by <a 
+      class="text-primary" href="https://ghufran919.my.id/"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >Ahmad Ghufran Akbar</a>`,
 };
 
 export default config;
