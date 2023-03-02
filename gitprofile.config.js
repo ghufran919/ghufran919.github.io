@@ -106,7 +106,7 @@ const config = {
     {
       title: 'Movie App dengan TMDB API',
       description:
-        'Simple Movie Rationg App based on HTML, CSS, and Javascript connected to TMDB API',
+        'Simple Movie Rating App based on HTML, CSS, and Javascript connected to TMDB API',
       imageUrl: 'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/download.png',
       link: 'https://skilmovie-ghufran919.netlify.app/',
     },
@@ -132,7 +132,7 @@ const config = {
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: 'G-VN8YXPE3E6', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: {
