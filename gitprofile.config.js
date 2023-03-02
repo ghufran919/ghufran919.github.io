@@ -71,7 +71,7 @@ const config = {
       companyLink: 'https://fpci-chapterunram.com',
     },
   ],
-  training: [
+  certifications: [
     {
       name: 'PT. Impactful Byte - Skilvul',
       body: 'AMMAN Coding Bootcamp',
@@ -99,28 +99,28 @@ const config = {
     {
       title: 'Kalkulator Indeks Massa Tubuh',
       description:
-        '2nd Technical Project for AMMAN Coding Bootcamp',
+        'Simple BMI Calculator based on HTML, CSS, and Javascript',
       imageUrl: 'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/download.png',
       link: 'https://indeksmassatubuh.netlify.app/',
     },
     {
       title: 'Movie App dengan TMDB API',
       description:
-        '3rd Technical Project for AMMAN Coding Bootcamp',
+        'Simple Movie Rationg App based on HTML, CSS, and Javascript connected to TMDB API',
       imageUrl: 'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/download.png',
       link: 'https://skilmovie-ghufran919.netlify.app/',
     },
     {
-      title: 'To-Do List App Reactjs',
+      title: 'To-Do List App',
       description:
-        '4th Technical Project for AMMAN Coding Bootcamp',
+        'Simple ReactJs To-Do List App',
       imageUrl: 'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/download.png',
       link: 'https://todo-app-ghufran919.netlify.app/',
     },
     {
       title: 'Baby Care Love e-Commerce Site',
       description:
-        'Group Project for AMMAN Coding Bootcamp',
+        'e-Commerce site based on Responsive Web Design (RWD) with Bootstrap',
       imageUrl: 'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/download.png',
       link: 'https://babycarelove.netlify.app/',
     },
