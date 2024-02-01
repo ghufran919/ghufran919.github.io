@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'ghufran919', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 8, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: ['Resume-AMMAN-Coding-Bootcamp', 'full-stack-web-assignments', 'ghufran919.github.io'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -25,11 +25,11 @@ const config = {
     telegram: '',
     website: 'https://ghufran919.my.id',
     phone: '+6285238035370',
-    email: 'official@ghufran919.my.id',
+    email: 'ahmadghufranakbar@penstudi.id',
   },
   resume: {
     fileUrl:
-      'https://ghufran919.my.id/cv/wp-content/uploads/2023/03/CV-Ahmad-Ghufran-Akbar.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://ghufran919.my.id/wp-content/uploads/2024/02/Ahmad-Ghufran-Akbar-CV-ATS-.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -44,30 +44,30 @@ const config = {
   experiences: [
     {
       company: 'SeaCMD Universitas Mataram',
-      position: 'Website Development',
+      position: 'Website Developer',
       from: '2023',
-      to: 'Present',
+      to: '2023',
       companyLink: 'https://seacmd.unram.ac.id',
     },
     {
       company: 'Summercourse Universitas Mataram',
-      position: 'Website Development',
+      position: 'Website Developer',
       from: '2023',
-      to: 'Present',
+      to: '2023',
       companyLink: 'https://summercourse.unram.ac.id',
     },
      {
       company: 'Indonesian Youth Diplomacy',
-      position: 'Website Development',
+      position: 'Website Developer',
       from: '2023',
-      to: 'Present',
+      to: '2023',
       companyLink: 'https://iyd-westnusatenggara.com',
     },
      {
       company: 'FPCI Chapter Universitas Mataram',
-      position: 'Website Development',
+      position: 'Website Developer',
       from: '2023',
-      to: 'Present',
+      to: '2023',
       companyLink: 'https://fpci-chapterunram.com',
     },
   ],
@@ -90,7 +90,7 @@ const config = {
       institution: 'Universitas Mataram',
       degree: 'International Relations',
       from: '2019',
-      to: 'Present',
+      to: '2023',
     },
   ],
 
